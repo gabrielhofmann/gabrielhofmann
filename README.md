@@ -1,5 +1,9 @@
 # Junior FullStack Developer
 
+## Current XP: 1 year developing responsive web applications mainly using the technologies below.
+
+* www.rangosemfila.com.br
+
 <br>
 
 <div style="display: inline_block; margin: 5em 0;">
