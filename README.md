@@ -1,7 +1,8 @@
 # Junior FullStack Developer
 
-## Current XP: 1 year developing responsive web applications mainly using the technologies below.
+## Current XP: 1+ year developing responsive web applications using mainly the technologies below.
 
+### Websites I created:
 * www.rangosemfila.com.br
 
 <br>
