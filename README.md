@@ -1,6 +1,6 @@
-# Junior FullStack Developer
+# FullStack Developer - JavaScript / NodeJs
 
-## Current XP: 1+ year developing responsive web applications using mainly the technologies below.
+## Current XP: 2+ years developing responsive web applications using mainly the technologies below.
 
 <div style="display: inline_block; margin: 5em 0;">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -14,10 +14,5 @@
 </div>
 
 <br>
-
-### Websites I created:
-* www.rangosemfila.com.br
-
-<br>   
 
 ![Snake animation](https://github.com/gabrielhofmann/gabrielhofmann/blob/output/github-contribution-grid-snake.svg)
