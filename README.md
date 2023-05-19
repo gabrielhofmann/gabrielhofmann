@@ -1,6 +1,6 @@
-## FullStack Developer - JavaScript / NodeJs
+## Web Developer | Next Js | Node Js
 
-### Experience: 2+ years developing responsive web applications in production.
+### Experience: 2+ years of experience on web development, front and back end.
 
 <div style="display: inline_block; margin: 5em 0;">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
